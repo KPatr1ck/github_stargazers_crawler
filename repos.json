@@ -1,0 +1,7 @@
+{
+    "token": "Your token",
+    "repos": {
+        "Repo1": "https://github.com/url_of_repo1",
+        "Repo2": "https://github.com/url_of_repo2"
+    }
+}
